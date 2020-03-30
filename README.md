@@ -11,4 +11,4 @@ WeChat Official Account(微信公众号):
 
 Xamarin Library
 
-<img src="https://raw.githubusercontent.com/jingliancui/XamarinAndroidSmartRefreshLayout/master/Images/wechatqrcode.jpg"/>
+<img src="https://github.com/jingliancui/XamarinFormsChatKitSample/blob/master/Images/wechatqrcode.jpg?raw=true"/>
