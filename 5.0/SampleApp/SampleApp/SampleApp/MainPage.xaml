@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SampleApp.MainPage">
+
+    <StackLayout Orientation="Vertical">
+
+        <Button Text="DialogsList" x:Name="DialogsListBtn" Clicked="DialogsListBtn_Clicked"></Button>
+
+        <Button Text="MessagesList" x:Name="MessagesListBtn" Clicked="MessagesListBtn_Clicked"></Button>
+
+        <Button Text="MessageInput" x:Name="MessageInputBtn" Clicked="MessageInputBtn_Clicked"></Button>
+        
+    </StackLayout>
+
+</ContentPage>
