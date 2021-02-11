@@ -3,7 +3,7 @@ Sample for showing ChatKit on xamarin.forms
 
 Tutorial:
 
-https://mp.weixin.qq.com/s/a_-6XmEQhGaPk6YVPhlaYg
+https://mp.weixin.qq.com/s/73VF9_gQ9OPXrr9hMnnoOQ
 
 QQ Group:313308215
 
